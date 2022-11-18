@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Elfira
+### Hi! I'm Elfira 👋🏻
 
 - 🔭 I’m currently working as a Freelance Web Developer
 - 🌱 I’m currently learning Web Design and Development
