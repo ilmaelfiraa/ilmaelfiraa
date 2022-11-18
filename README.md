@@ -10,6 +10,7 @@
 ### Find me on:
 <a href="https://www.linkedin.com/in/ilmaelfiraa/"><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" width="37"></a>
 <a href="https://dribbble.com/ilmaelfiraa"><img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-5-logo-png-transparent.png" width="37"></a>
+<a href="https://www.youtube.com/watch?v=3mB_5ifDGZU&feature=youtu.be"><img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/youtube-logo-free-download-design-template-1db4b70aa4287113a0c340239660c802_screen.jpg?ts=1639754522" width="37"></a>
 
 ### Languages and Tools:
 <a href="https://w3schools.com/css/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="37"></a>
