@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on Startup
 - 💬 Ask me about PHP, CodeIgniter, Bootstrap, Figma
 - 📫 How to reach me: elfiranurul02@gmail.com
-- ⚡ Fun fact: I love design visuals!
+- ⚡ Fun fact: I love visual design!
 
