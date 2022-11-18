@@ -7,6 +7,10 @@
 - 📫 How to reach me: elfiranurul02@gmail.com
 - ⚡ Fun fact: I love visual design!
 
+### Find me on:
+<a href="https://w3schools.com/css/"><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" width="37"></a>
+<a href="https://w3schools.com/css/"><img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-5-logo-png-transparent.png" width="37"></a>
+
 ### Languages and Tools:
 <a href="https://w3schools.com/css/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="37"></a>
 <a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="40"></a>
