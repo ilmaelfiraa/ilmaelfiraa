@@ -17,5 +17,5 @@
 <a href="https://figma.com/"><img src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" width="33"></a>
 <a href="https://w3schools.com/html/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="37"></a>
 <a href="https://w3schools.com/css/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="37"></a>
-<a href="https://w3schools.com/js/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="34"></a>
+<a href="https://w3schools.com/js/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="30"></a>
 <a href="https://www.mysql.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="40"></a>
