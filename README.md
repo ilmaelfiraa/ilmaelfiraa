@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Freelance Web Developer
 - 🌱 I’m currently learning Web Design and Development
-- 💬 Ask me about PHP, CodeIgniter, Bootstrap, Figma
+- 💬 Ask me about UI or web design
 - 📫 How to reach me: elfiranurul02@gmail.com
 - ⚡ Fun fact: I love visual design!
 
