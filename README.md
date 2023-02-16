@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Freelance Web Designer
 - 🌱 I’m currently learning Web Design and Development
-- 💬 Ask me about Figma, Bootstrap or whatever
+- 💬 Ask me about design or whatever
 - 📫 How to reach me: elfiranurul02@gmail.com
 - ⚡ Fun fact: I love visual design!
 
