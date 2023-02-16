@@ -1,6 +1,6 @@
 ## Hi! 👋🏻, I'm Ilmaelfira
 
-- 🔭 I’m currently working as a Freelance Web Developer
+- 🔭 I’m currently working as a Freelance Web Designer
 - 🌱 I’m currently learning Web Design and Development
 - 💬 Ask me about Figma, Bootstrap or whatever
 - 📫 How to reach me: elfiranurul02@gmail.com
