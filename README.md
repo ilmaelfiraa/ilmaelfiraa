@@ -1,4 +1,4 @@
-# Hi! 👋, I'm Elfira
+# Hey 👋, I'm Elfira
 
 ![animation_300_lfdspokv](https://user-images.githubusercontent.com/91236883/226098780-90390f59-ba5a-407c-8a1d-9c10a22c73b0.gif)
 
@@ -21,3 +21,6 @@ I'm a web designer and developer. I specialize in UI design, responsive web desi
 ![Group 42 (3)](https://user-images.githubusercontent.com/91236883/226099820-36a28075-4baf-4b73-a239-639b08537406.svg)
 ![Group 43](https://user-images.githubusercontent.com/91236883/226099901-183cf91e-c61a-4fde-957b-4ff0153f4a61.svg)
 ![Group 45](https://user-images.githubusercontent.com/91236883/226100099-42c37802-d7eb-4add-a41a-76f39fb02de7.svg)
+
+## Support
+If you like the same things as me, why not follow me? Let's connect! ✨
