@@ -18,6 +18,7 @@ I'm a web designer and developer. I specialize in UI design, responsive web desi
 ![Group 47 (3)](https://user-images.githubusercontent.com/91236883/226100455-88c79844-aca9-4ba7-a5cc-80717f9dd514.svg)
 ![Group 46](https://user-images.githubusercontent.com/91236883/226100197-50f618c0-276d-40c4-9205-5e6034500d07.svg)
 ![Group 44](https://user-images.githubusercontent.com/91236883/226099967-aeda7007-24ab-40c0-88ff-9bf7959af4a0.svg)
+![Group 51](https://user-images.githubusercontent.com/91236883/226110143-f7a3ec0a-cef4-499a-b2e7-f77475b32bc6.svg)
 ![Group 42 (3)](https://user-images.githubusercontent.com/91236883/226099820-36a28075-4baf-4b73-a239-639b08537406.svg)
 ![Group 43](https://user-images.githubusercontent.com/91236883/226099901-183cf91e-c61a-4fde-957b-4ff0153f4a61.svg)
 ![Group 45](https://user-images.githubusercontent.com/91236883/226100099-42c37802-d7eb-4add-a41a-76f39fb02de7.svg)
