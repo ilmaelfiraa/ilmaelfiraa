@@ -1,5 +1,8 @@
 ## Hi! 👋🏻, I'm Ilmaelfira
 
+### About me:
+I'm a web designer and developer. I specialize in UI design, responsive web design and visual development.
+
 - 🔭 I’m currently working as a Freelance Web Designer
 - 🌱 I’m currently learning Web Design and Development
 - 💬 Ask me about design or whatever
