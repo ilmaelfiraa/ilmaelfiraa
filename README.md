@@ -12,6 +12,7 @@ I'm a web designer and developer. I specialize in UI design, responsive web desi
 ## How to reach me
 <a href="https://dribbble.com/ilmaelfiraa">![Group 48](https://user-images.githubusercontent.com/91236883/226100582-68d30feb-a199-47ad-94ac-d644d056ceb4.svg)</a>
 <a href="https://www.linkedin.com/in/ilmaelfiraa/">![Group 49](https://user-images.githubusercontent.com/91236883/226100702-9756896b-e358-4db4-b145-30fee97b31bb.svg)</a>
+<a href="https://www.instagram.com/ilmaelfiraa.ui/">![Group 52](https://user-images.githubusercontent.com/91236883/226110474-6854bb95-e698-4536-9d96-5d594abb9e44.svg)</a>
 <a href="https://www.youtube.com/@ilmaelfiraa">![Group 50](https://user-images.githubusercontent.com/91236883/226100832-ef5c55e0-492f-46a0-a31a-d34e07ceb9c8.svg)</a>
 
 ## Languages and tools
