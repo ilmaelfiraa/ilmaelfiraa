@@ -1,24 +1,23 @@
-## Hi! 👋🏻, I'm Ilmaelfira
+# Hi! 👋, I'm Elfira
 
-![Dsxs6IdBh0](https://user-images.githubusercontent.com/91236883/226097828-2c464bb9-dd63-4b2b-888d-0075462fe7de.gif)
+![animation_300_lfdspokv](https://user-images.githubusercontent.com/91236883/226098780-90390f59-ba5a-407c-8a1d-9c10a22c73b0.gif)
 
-### About me:
-I'm a web designer and developer. I specialize in UI design, responsive web design and visual development.
+## About me:
+I'm a web designer and developer. I specialize in UI design, responsive web design and visual development. I love visual design and turning it into code, even though I always get stuck when designing :'. I'm enjoy what I do, share what I know and learn every day.
 
-- 🚀 I’m currently working as a Freelance Web Designer
-- 💬 Ask me about design or whatever
-- 📫 How to reach me: elfiranurul02@gmail.com
-- ⚡ Fun fact: I love visual design!
+- 🐱‍💻 I’m currently working as a Freelance Web Designer
+- 😉 Available for work and collaborations
+- 💬 Ask me about design or anything related
 
-### Find me on:
+## How to reach me:
 <a href="https://www.linkedin.com/in/ilmaelfiraa/"><img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" width="37"></a>
 <a href="https://dribbble.com/ilmaelfiraa"><img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-5-logo-png-transparent.png" width="37"></a>
 <a href="https://www.youtube.com/watch?v=3mB_5ifDGZU&feature=youtu.be"><img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/youtube-logo-free-download-design-template-1db4b70aa4287113a0c340239660c802_screen.jpg?ts=1639754522" width="37"></a>
 
-### Languages and Tools:
-<a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="40"></a>
-<a href="https://codeigniter.com/"><img src="https://cdn.worldvectorlogo.com/logos/blackfire-inverted-1.svg" width="33"></a>
-<a href="https://figma.com/"><img src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" width="33"></a>
-<a href="https://w3schools.com/html/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="37"></a>
-<a href="https://w3schools.com/css/"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="37"></a>
-<a href="https://www.mysql.com/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="35"></a>
+## Languages and tools:
+![Group 47 (3)](https://user-images.githubusercontent.com/91236883/226100455-88c79844-aca9-4ba7-a5cc-80717f9dd514.svg)
+![Group 46](https://user-images.githubusercontent.com/91236883/226100197-50f618c0-276d-40c4-9205-5e6034500d07.svg)
+![Group 44](https://user-images.githubusercontent.com/91236883/226099967-aeda7007-24ab-40c0-88ff-9bf7959af4a0.svg)
+![Group 42 (3)](https://user-images.githubusercontent.com/91236883/226099820-36a28075-4baf-4b73-a239-639b08537406.svg)
+![Group 43](https://user-images.githubusercontent.com/91236883/226099901-183cf91e-c61a-4fde-957b-4ff0153f4a61.svg)
+![Group 45](https://user-images.githubusercontent.com/91236883/226100099-42c37802-d7eb-4add-a41a-76f39fb02de7.svg)
