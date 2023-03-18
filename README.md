@@ -1,10 +1,11 @@
 ## Hi! 👋🏻, I'm Ilmaelfira
 
+![Dsxs6IdBh0](https://user-images.githubusercontent.com/91236883/226097828-2c464bb9-dd63-4b2b-888d-0075462fe7de.gif)
+
 ### About me:
 I'm a web designer and developer. I specialize in UI design, responsive web design and visual development.
 
-- 🔭 I’m currently working as a Freelance Web Designer
-- 🌱 I’m currently learning Web Design and Development
+- 🚀 I’m currently working as a Freelance Web Designer
 - 💬 Ask me about design or whatever
 - 📫 How to reach me: elfiranurul02@gmail.com
 - ⚡ Fun fact: I love visual design!
