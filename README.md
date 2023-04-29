@@ -21,6 +21,7 @@ I'm a web designer and developer. I specialize in UI design, responsive web desi
 <a href="https://www.w3schools.com/css/">![Group 44](https://user-images.githubusercontent.com/91236883/226099967-aeda7007-24ab-40c0-88ff-9bf7959af4a0.svg)</a>
 <a href="https://sass-lang.com/">![Group 51](https://user-images.githubusercontent.com/91236883/226110143-f7a3ec0a-cef4-499a-b2e7-f77475b32bc6.svg)</a>
 <a href="https://getbootstrap.com/">![Group 42 (3)](https://user-images.githubusercontent.com/91236883/226099820-36a28075-4baf-4b73-a239-639b08537406.svg)</a>
+<a href="https://tailwindcss.com/">![Group 42](https://user-images.githubusercontent.com/91236883/235284489-e5bb1614-f3ca-4c98-b2f1-effeba51f8f0.svg)</a>
 <a href="https://codeigniter.com/">![Group 43](https://user-images.githubusercontent.com/91236883/226099901-183cf91e-c61a-4fde-957b-4ff0153f4a61.svg)</a>
 <a href="https://www.mysql.com/">![Group 45](https://user-images.githubusercontent.com/91236883/226100099-42c37802-d7eb-4add-a41a-76f39fb02de7.svg)</a>
 
