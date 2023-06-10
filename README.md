@@ -27,4 +27,5 @@ I'm a web designer and developer. I specialize in UI design, responsive web desi
 <a href="https://www.mysql.com/">![Group 45](https://user-images.githubusercontent.com/91236883/226100099-42c37802-d7eb-4add-a41a-76f39fb02de7.svg)</a>
 
 ## Support
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N6KX1A1) </br>
 If you like the same things as me, why not follow me? Let's connect! ✨
