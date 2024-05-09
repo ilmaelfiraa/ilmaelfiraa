@@ -3,7 +3,7 @@
 ![animation_300_lfdspokv](https://user-images.githubusercontent.com/91236883/226098780-90390f59-ba5a-407c-8a1d-9c10a22c73b0.gif)
 
 ## About me
-I'm a jr web designer and developer. I specialize in UI design, responsive web design and visual development. I love visual design and turning it into code, even though I always get stuck when designing :'. I'm enjoy what I do, share what I know and learn every day.
+I'm a web designer and developer. I specialize in UI design, responsive web design and visual development. I love visual design and turning it into code, even though I always get stuck when designing :'. I'm enjoy what I do, share what I know and learn every day.
 
 - 🐱‍💻 I’m currently working as a Freelance Web Designer
 - 😉 Available for work and collaborations
